@@ -91,3 +91,20 @@ text-align: center;
     text-align: center;
     height: 400px;
 }
+.part-2{
+    margin: 150px;
+    
+}
+.content-3{
+    float: left;
+    margin-right: 20%;
+    margin-left: 80px;
+    font-size: 30px;
+}
+#img-3{
+    position: absolute;
+    left: 50%;
+    margin-bottom: -150;
+}
+.color-2{
+    color: #F6B400;
