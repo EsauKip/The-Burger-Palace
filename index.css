@@ -65,3 +65,29 @@ nav{
 #center-box{
     padding: 100px 10px;
 }
+.content-2{
+    margin-top: 100px;
+}
+.content-2 h2{
+text-align: center;
+}
+.feature{
+    margin: 0 10%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.feature h3{
+    text-align: center;
+}
+.box-2{
+    margin-top: 50px;
+    width: 300px;
+    padding-right: 20px;
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    padding: 10px;
+    text-align: center;
+    height: 400px;
+}
