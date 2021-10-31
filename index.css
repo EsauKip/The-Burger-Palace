@@ -2,3 +2,27 @@
     font-style:poppins;
     margin: 0;
 }
+nav{
+    display: flex ;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.nav-bar ul{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-bar li{
+    padding: 25px;
+    list-style: none;
+    font-size: 30px;
+}
+.nav-bar li:hover{
+    border-bottom: 5px solid orange;
+}
+.header_logo{
+    display: flex;
+    justify-content: space-around;
+}
+.header_logo h3{
+    font-size: 45px;
+}
