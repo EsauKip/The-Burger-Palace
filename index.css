@@ -114,3 +114,26 @@ text-align: center;
     background-color: #F6B400;
     height: 700px;
 }
+.footer-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+}
+.footer-1 li{
+    list-style: none;
+}
+.footer-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.footer-1 color{
+   color: #F6B400;
+}
+.color-2{
+    color: #F6B400;
+}
+.feature-3{
+    margin-top: 45px;
+  font-family: poppins;
+}
