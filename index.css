@@ -49,8 +49,8 @@ nav{
 .description{
     float: left;
     font-size: 30px;
-    margin-right: 9%;
-    margin-left: 10%;
+    margin-right: 6%;
+    margin-left: 5%;
     padding-top: 200px;
 }
 .description button{
@@ -93,10 +93,10 @@ nav{
     margin-top: 100px;
 }
 .content-2 h2{
-text-align: center;
 font-size: 40px;
-border-bottom: 5px solid #F6B400;
-border-bottom: width -7px;
+border-bottom: 10px solid yellow;
+margin-left:  45%;
+margin-right: 48%;
 }
 .feature{
     margin: 0 10%;
@@ -127,13 +127,13 @@ border-bottom: width -7px;
 }
 .content-3{
     float: left;
-    margin-right: 5%;
+    margin-right: 35%;
     margin-left: 10px;
     font-size: 20px;
 }
 #img-3{
     position: absolute;
-    left: 50%;
+    left: 55%;
     padding-top: 50px;
     width: 350px;
 }
@@ -155,8 +155,13 @@ border-bottom: width -7px;
 }
 .part-3 img{
     padding-top: 100px;
+   
+}
+.socials{
+    float: left;
 }
 .footer-1{
+    clear: both;
     display: flex;
     justify-content: space-between;
     padding: 70px;
@@ -211,29 +216,17 @@ border-bottom: width -7px;
     font-size: 100px;
     color: #F6B400;
 }
-.feature counter{
- width: 15%;
- display: flex;
- justify-content: space-between;
+.counts button{
+    margin-top: -100px;
+    padding: 5px;
+    background-color: lightblue;
+    border:0;
+    border-radius: 10px;
+}
 
-}
-.btn-2{
- width: 40px;
- height: 40px;
- border-radius: 50%;
- background-color: #d9d9d9;
- display: flex;
- justify-content: center;
- align-items: center;
- font-size: 20px;
- font-family: ‘Open Sans’;
- font-weight: 900;
- color: #202020;
- cursor: pointer;
-}
-.count{
- font-size: 20px;
- font-family: ‘Open Sans’;
- font-weight: 900;
- color: #202020;
+
+.box-2 h5{
+    font-size: 15px;
+    padding-top: 35px;
+    margin-left: -160px;
 }
